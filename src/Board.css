@@ -1,0 +1,12 @@
+.board {
+  width: 120px;
+  height: 120px;
+  background-color: #ddd;
+  margin: 20px auto;
+}
+.board__row {
+  display: flex;
+  justify-content: space-between;
+  height: 33.33%;
+}
+
